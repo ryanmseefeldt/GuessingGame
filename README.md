@@ -1,4 +1,5 @@
 Random Number Guessing Game
+
 Welcome to the Random Number Guessing Game! This Java program, rsguessgame.java, 
 allows you to guess a randomly generated number. If your guess is lower than 
 the generated number, it will display "Lower". If your guess is higher, 
